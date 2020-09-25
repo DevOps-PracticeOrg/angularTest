@@ -1,0 +1,42 @@
+.c-Hero {
+  height: 480px;
+  background: url("/assets/top/hero.jpg") no-repeat;
+  background-size: cover;
+
+  position: relative;
+  .c-Hero__inner {
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 0;
+    width: 100%;
+    transform: translate(0, -50%);
+    .a-Txt {
+    }
+  }
+
+}
+
+.u-Above1 >* {
+  margin-top: 16px;
+}
+
+.u-Above2 >* {
+  margin-top: 24px;
+}
+
+.u-Above3 >* {
+  margin-top: 40px;
+}
+
+.u-Above4 >* {
+  margin-top: 64px;
+}
+
+.u-Above5 >* {
+  margin-top: 80px;
+}
+
+.u-Above6 >* {
+  margin-top: 100px;
+}

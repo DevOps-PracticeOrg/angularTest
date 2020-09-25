@@ -1,0 +1,28 @@
+{
+  "user_id": 0,
+  "profile": {
+    "name": "test_man",
+    "gender": "male",
+    "image": ""
+  },
+  "ateliers": [
+    {
+      "atelier_id": 0,
+      "evaluation": [
+        {
+          "user_id": 1,
+          "star": 5,
+          "date": "2020-01-01"
+        }
+      ]
+    }
+  ],
+  "my_comments": [
+    {
+      "comment_id": 0,
+      "star": 5,
+      "atelier_id": 1,
+      "comment": "test test test"
+    }
+  ]
+}
